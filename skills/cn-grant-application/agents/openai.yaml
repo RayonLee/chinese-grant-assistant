@@ -1,0 +1,4 @@
+interface:
+  display_name: "中文课题申报"
+  short_description: "依据新指南和已有材料完成申报书，核查引用、进度并保留原稿修改"
+  default_prompt: "使用 $cn-grant-application 根据本次指南和已有资料完成申报；有修改稿时以最新版为基础，并附关键修改说明。"
