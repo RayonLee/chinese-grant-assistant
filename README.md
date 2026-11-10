@@ -107,3 +107,7 @@ skills/cn-grant-application/
 本技能重新编写了适合中国课题申报的流程，借鉴 ChineseResearchLaTeX 的三项申报写作技能，以及 K-Dense 的 `research-grants`、`citation-management`。具体版本、方法和适配方式见[来源与适配说明](skills/cn-grant-application/references/sources-and-adaptation.md)。不需要同时安装这些上游技能，本仓库未打包其源码和模板。
 
 技能不编造履历、数据、合作承诺或引用，不保证立项。申报事实、指南合规性和最终提交由申报人确认；使用技能不代表授权助手提交申请、发送邮件或代为签署。
+
+## 许可证
+
+本项目新增内容采用 [MIT License](LICENSE)。方法来源与适配说明保留在上述来源文档中；本项目的 MIT 授权不改变上游项目的版权和许可。
